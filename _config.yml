@@ -1,0 +1,5 @@
+title: "Blog de Hardware"
+description: "Artículos sobre Hardware y Tecnología"
+baseurl: "/hardware"    # coincide con tu repo
+url: "https://johnylozano.github.io"
+theme: minima
