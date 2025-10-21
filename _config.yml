@@ -1,5 +1,4 @@
 title: "Blog de Hardware"
-description: "Artículos sobre Hardware y Tecnología"
-baseurl: "/hardware"    # coincide con tu repo
+description: "Pruebas con Jekyll y GitHub Pages"
+baseurl: "/hardware" # nombre del repositorio
 url: "https://johnylozano.github.io"
-theme: minima

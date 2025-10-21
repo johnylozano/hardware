@@ -1,11 +1,17 @@
 ---
 layout: default
-title: Página Principal
+title: "Inicio"
 ---
 
-# Bienvenido a mi sitio de Hardware
+# Bienvenido al blog de Hardware
 
-Este es mi nuevo sitio con **Jekyll y GitHub Pages** 🚀.
+Aquí verás los posts más recientes:johny grupolozanos
 
-- Aquí irán los artículos.
-- Desde aquí enlazaré a mis posts en `_posts/`.
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+    </li>
+  {% endfor %}
+</ul>
