@@ -8,7 +8,7 @@ script automático llamado publicar.sh para que subas tus posts al repositorio c
 
 🧩 1️⃣ Crea el archivo
 
-En tu carpeta principal del proyecto (hardware/), crea un nuevo archivo llamado:
+En tu carpeta principal del proyecto (tecnologia-lozanos/), crea un nuevo archivo llamado:
 
 publicar.sh
 
@@ -45,7 +45,7 @@ echo "⏳ Espera 1-2 minutos para que GitHub Pages regenere tu sitio."
 
 🧩 3️⃣ Dale permisos de ejecución
 
-En la terminal (dentro de tu carpeta hardware), ejecuta:
+En la terminal (dentro de tu carpeta tecnologia-lozanos), ejecuta:
 
 chmod +x publicar.sh
 

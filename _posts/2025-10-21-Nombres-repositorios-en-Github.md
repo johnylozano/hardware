@@ -54,7 +54,7 @@ ia-articulos → Inteligencia Artificial.
 
 redes → Redes y ciberseguridad.
 
-hardware → Electrónica y robótica.
+tecnologia-lozanos → Electrónica y robótica.
 
 software → Programación y desarrollo de software.
 
@@ -99,7 +99,7 @@ Dentro de un repositorio puedes crear carpetas para cada temática:
 articulos-tecnologia/
 ├─ ia/
 ├─ redes/
-├─ hardware/
+├─ tecnologia-lozanos/
 ├─ software/
 
 

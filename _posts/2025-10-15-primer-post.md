@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Primer Post de Hardware"
+title: "Primer Post de tecnologia-lozanos"
 date: 2025-10-15
 
 categories: [IA, Machine Learning] 

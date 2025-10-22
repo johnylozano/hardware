@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cuarto Post de Hardware"
+title: "Cuarto Post de tecnologia-lozanos"
 date: 2025-10-18
 ---
 Contenido del Cuarto post de prueba.
@@ -14,7 +14,7 @@ Te dejo los comandos exactos que debes usar, con explicación 👇
 
 🧱 1. Crear tu nuevo post
 
-En tu carpeta del proyecto (ejemplo: ~/github/hardware), crea tu post dentro de la carpeta _posts.
+En tu carpeta del proyecto (ejemplo: ~/github/tecnologia-lozanos), crea tu post dentro de la carpeta _posts.
 
 El formato de nombre es obligatorio:
 
