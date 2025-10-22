@@ -3,7 +3,7 @@ layout: default
 title: "Inicio"
 ---
 
-# Bienvenido al blog de Hardware
+# Bienvenido al Blog de Tecnología
 
 Aquí verás los posts más recientes:johny grupolozanos
 
