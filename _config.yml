@@ -1,4 +1,6 @@
 title: "BLOG DE TECNOLOGÍA"
-description: "Pruebas con Jekyll y GitHub Pages"
-baseurl: "/hardware" # nombre del repositorio
+description: "Blog y proyectos tecnológicos"
+baseurl: "/tecnologia-lozanos"
 url: "https://johnylozano.github.io"
+
+remote_theme: mmistakes/minimal-mistakes
