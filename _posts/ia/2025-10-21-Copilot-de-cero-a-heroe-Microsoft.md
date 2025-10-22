@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cuarto Post de Hardware"
+title: "Evento: Copilot y Agentes Microsoft"
 date: 2025-10-21
 ---
 
