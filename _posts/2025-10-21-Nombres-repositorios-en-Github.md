@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nombres de Repositorios para Tecnología"
-date: 2025-10-17
+date: 2025-10-21
 ---
 1. blog-tecnologia
 2. 
