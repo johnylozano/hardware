@@ -3,8 +3,8 @@ description: "Blog y proyectos tecnológicos"
 baseurl: "/tecnologia-lozanos"
 url: "https://johnylozano.github.io"
 
+remote_theme: "mmistakes/minimal-mistakes"
+
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
-
-remote_theme: "mmistakes/minimal-mistakes"
