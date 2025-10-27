@@ -1,4 +1,5 @@
----layout: post
+---
+layout: post
 title: "Generador QR - Gratis"
 date: 2025-10-27
 ---
